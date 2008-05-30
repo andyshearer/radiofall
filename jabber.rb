@@ -14,7 +14,7 @@ pid = fork do
   stations = %w(radio1 radio2 radio3 radio4 5live 6music radio7 1xtra)
   events = []
   domain = 'hug.hellomatty.com'
-  user, password = "mibly@#{domain}", 'password'
+  user, password = "EXAMPLE@#{domain}", 'PASSWORD'
 
   jid = Jabber::JID.new(user)
   cl = Jabber::Client.new(jid)
