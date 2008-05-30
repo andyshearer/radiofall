@@ -1,0 +1,47 @@
+html {
+	height: 100%;
+	background: black;
+	color: white;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	color: #707070;
+}
+
+.radio1 {
+	color: white;
+}
+
+.radio2 {
+	color: #FF6F00;
+}
+
+.radio3 {
+	color: #EB0909;
+}
+
+.radio4 {
+	color: #070797
+}
+
+.fivelive {
+	color: #23CACF;
+}
+
+.sixmusic {
+	color: #70B470;
+}
+
+.radio7 {
+	color: #F7BD2C;
+}
+
+.onextra {
+	
+}
+
+p {
+	margin-bottom: 10px;
+}
